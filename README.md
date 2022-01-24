@@ -2,6 +2,7 @@
 - 👀 I’m interested in Gaming: Minecraft, Valorant
 - 🌱 I’m currently learning to use a new hackt client in minecraft
 - 📫 How to reach me Discord: Seth#3000
+- 🐛 Good at finding bugs on Minecraft servers
 
 <!---
 Broekhoest/Broekhoest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
